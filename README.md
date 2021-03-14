@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi, I'm Jimmy
+
+I'm a Front-end Engineer.
+
+## Links: 
+- <a href="https://www.104.com.tw/profile/UVHvZop4L">104個人品牌</a>
+- <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a>
 
 <!--
 **jimmy010679/jimmy010679** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
